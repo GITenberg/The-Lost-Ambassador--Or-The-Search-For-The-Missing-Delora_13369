@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/594
     wikipedia: http://en.wikipedia.org/wiki/E._Phillips_Oppenheim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13369#The-Lost-Ambassador--Or-The-Search-For-The-Missing-Delora
 gutenberg_issued: '2004-09-03'
 gutenberg_type: Text
 identifiers:
